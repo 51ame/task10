@@ -1,6 +1,6 @@
 #!/bin/bash
 WIPE_DATE=$(date)
-DIR=/home/ubuntu/task6
+DIR=/home/ubuntu/custom-ubuntu-nginx
 TRESHOLD=100000
 
 while true; do
